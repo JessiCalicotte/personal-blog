@@ -33,7 +33,7 @@ p:last-child {
 }
 
 a {
-  color: #b32b78;
+  color: #d6d6d6;
   text-decoration: none;
   -o-transition:.5s;
   -ms-transition:.5s;
@@ -43,7 +43,7 @@ a {
 }
 
 a:hover {
-  color: #852b87;
+  color: #d6d6d6;
 }
 
 hr {
